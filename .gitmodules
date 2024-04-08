@@ -1,0 +1,54 @@
+[submodule "dram_rtl_sim"]
+	path = dram_rtl_sim
+	url = https://github.com/pulp-platform/dram_rtl_sim.git
+[submodule "axi_llc"]
+	path = axi_llc
+	url = https://github.com/pulp-platform/axi_llc.git
+[submodule "axi"]
+	path = axi
+	url = https://github.com/pulp-platform/axi.git
+[submodule "snitch_cluster"]
+	path = snitch_cluster
+	url = https://github.com/pulp-platform/snitch_cluster.git
+[submodule "tech_cells_generic"]
+	path = tech_cells_generic
+	url = https://github.com/pulp-platform/tech_cells_generic.git
+[submodule "spatz"]
+	path = spatz
+	url = https://github.com/pulp-platform/spatz.git
+[submodule "common_verification"]
+	path = common_verification
+	url = https://github.com/pulp-platform/common_verification.git
+[submodule "register_interface"]
+	path = register_interface
+	url = https://github.com/pulp-platform/register_interface.git
+[submodule "iDMA"]
+	path = iDMA
+	url = https://github.com/pulp-platform/iDMA.git
+[submodule "common_cells"]
+	path = common_cells
+	url = https://github.com/pulp-platform/common_cells.git
+[submodule "verilog-axi"]
+	path = verilog-axi
+	url = https://github.com/alexforencich/verilog-axi.git
+[submodule "verilog-axis"]
+	path = verilog-axis
+	url = https://github.com/alexforencich/verilog-axis.git
+[submodule "cocotbext-axi"]
+	path = cocotbext-axi
+	url = https://github.com/alexforencich/cocotbext-axi.git
+[submodule "cvfpu"]
+	path = cvfpu
+	url = https://github.com/pulp-platform/cvfpu.git
+[submodule "cv-hpdcache"]
+	path = cv-hpdcache
+	url = https://github.com/openhwgroup/cv-hpdcache.git
+[submodule "vicuna"]
+	path = vicuna
+	url = https://github.com/vproc/vicuna.git
+[submodule "pulp_cluster"]
+	path = pulp_cluster
+	url = https://github.com/pulp-platform/pulp_cluster.git
+[submodule "farts"]
+	path = farts
+	url = https://github.com/cyberchrime/farts.git
